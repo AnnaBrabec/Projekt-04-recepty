@@ -38,3 +38,37 @@ body {
 /* ----- DOLE BUDE TVOJE CSS ----- */
 /* ------------------------------- */
 
+.hlavni {
+    display: flex;
+    background-image: url("images/burger.jpg");
+    background-repeat: no-repeat;
+    min-height: 200px;
+}
+.recepty {
+    display: flex;
+    flex-direction: column;
+}
+.maly-recept2 {
+    display: flex;
+    background-image: url("images/sushi.jpg");
+    background-repeat: no-repeat;
+    min-height: 90px;
+}
+.maly-recept3 {
+    display: flex;
+    background-image: url("images/kure.jpg");
+    background-repeat: no-repeat;
+    min-height: 90px;
+}
+.maly-recept4 {
+    display: flex;
+    background-image: url("images/rajcata.jpg");
+    background-repeat: no-repeat;
+    min-height: 90px;
+}
+.maly-recept5 {
+    display: flex;
+    background-image: url("images/grilovani.jpg");
+    background-repeat: no-repeat;
+    min-height: 90px;
+}
